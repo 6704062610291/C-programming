@@ -14,6 +14,6 @@ int main() {
     }
         
     } else 
-        printf("var2 is greater than var1 ");
-        printf("var1 is greater than var2");       
+        printf("var2 is greater than var1\n");
+        printf("var1 is greater than var2\n");       
 }
